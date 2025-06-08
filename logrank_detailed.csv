@@ -1,0 +1,64 @@
+"Variable","Group","N","Events","Median_Survival","CI_Lower","CI_Upper"
+"Gender","Female",3371,752,58,57,59
+"Gender","Male",3284,719,58,57,59
+"Gender","Other",3345,739,58,57,59
+"Metastasis","No",7301,865,Inf,60,NA
+"Metastasis","Yes",2699,1345,45,44,46
+"TreatmentType","Chemotherapy",2072,452,58,57,60
+"TreatmentType","Immunotherapy",2010,448,59,57,59
+"TreatmentType","Radiation",1997,460,58,57,59
+"TreatmentType","Surgery",1960,423,57,57,59
+"TreatmentType","Targeted Therapy",1961,427,58,57,59
+"age_4groups_ranges","age_18_35",2640,582,58,57,59
+"age_4groups_ranges","age_36_51",2373,512,59,57,60
+"age_4groups_ranges","age_52_69",2568,548,58,57,59
+"age_4groups_ranges","age_70_85",2419,568,58,56,59
+"TumorSize_WithRanges","Small (<4.1 cm)",1653,131,Inf,NA,NA
+"TumorSize_WithRanges","Average (4.1-8.6 cm)",6755,1484,59,58,59
+"TumorSize_WithRanges","Large (>8.6 cm)",1592,595,51,50,53
+"chemo_clinical_groups","No Chemo",6182,1373,58,57,59
+"chemo_clinical_groups","Short Course (1-3)",580,129,58,55,NA
+"chemo_clinical_groups","Standard Course (4-6)",549,115,58,57,NA
+"chemo_clinical_groups","Extended Course (7-12)",1190,270,58,56,60
+"chemo_clinical_groups","Intensive (>12)",1499,323,58,57,60
+"radiation_clinical_groups","No Radiation",8074,1764,58,57,59
+"radiation_clinical_groups","Palliative (1-5)",300,76,58,55,60
+"radiation_clinical_groups","Short Course (6-15)",639,148,59,53,60
+"radiation_clinical_groups","Standard (16-25)",645,139,58,56,NA
+"radiation_clinical_groups","Extended (26-35)",342,83,55,51,NA
+"TumorType_domain","Digestive",3923,871,58,57,59
+"TumorType_domain","Other",1477,312,58,57,60
+"TumorType_domain","Reproductive",2039,452,59,58,60
+"TumorType_domain","Respiratory",2561,575,58,57,59
+"Province_domain","Central",2678,577,59,58,60
+"Province_domain","Eastern",6093,1350,58,57,58
+"Province_domain","Western",1229,283,58,57,60
+"CancerStage_domain","Advanced",1553,759,46,44,48
+"CancerStage_domain","Early",2542,0,Inf,NA,NA
+"CancerStage_domain","Intermediate",5905,1451,57,57,58
+"ethnicity_binary","Ethnic Minority",890,172,59,57,NA
+"ethnicity_binary","Han",9110,2038,58,57,59
+"Comorbid_Diabetes","0",6355,1378,58,57,59
+"Comorbid_Diabetes","1",2684,594,58,58,59
+"Comorbid_Hypertension","0",6337,1396,58,57,59
+"Comorbid_Hypertension","1",2702,576,59,58,59
+"Comorbid_Hepatitis_B","0",6339,1388,58,58,59
+"Comorbid_Hepatitis_B","1",2700,584,58,57,59
+"Comorbid_Any","0",2754,612,58,57,59
+"Comorbid_Any","1",6285,1360,59,58,59
+"Comorbid_Count","0",2754,612,58,57,59
+"Comorbid_Count","1",4484,966,59,58,59
+"Comorbid_Count","2",1801,394,58,57,59
+"Comorbidities_Cleaned","Diabetes",1506,328,59,57,60
+"Comorbidities_Cleaned","Diabetes, Hepatitis B",294,76,57,56,60
+"Comorbidities_Cleaned","Diabetes, Hypertension",301,57,59,56,NA
+"Comorbidities_Cleaned","Hepatitis B",1464,311,58,57,60
+"Comorbidities_Cleaned","Hepatitis B, Diabetes",319,69,58,55,NA
+"Comorbidities_Cleaned","Hepatitis B, Hypertension",296,70,55,51,NA
+"Comorbidities_Cleaned","Hypertension",1514,327,59,58,60
+"Comorbidities_Cleaned","Hypertension, Diabetes",264,64,58,52,NA
+"Comorbidities_Cleaned","Hypertension, Hepatitis B",327,58,60,57,NA
+"Comorbidities_Cleaned","Missing",961,238,57,55,59
+"Comorbidities_Cleaned","None",2754,612,58,57,59
+"genetic_binary","Mutation Present",3606,807,58,57,59
+"genetic_binary","No Mutation",6394,1403,58,57,59
